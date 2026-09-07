@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI-native SDLC"
+  short_description: "Turn ideas and incidents into verifiable changes"
+  default_prompt: "Use $ai-native-sdlc to move this work through the appropriate delivery stages, preserving its scope and recording verification evidence."
